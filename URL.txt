@@ -1,1 +1,1 @@
-www.amazon.com
+https://xodus-archive.vercel.app/
